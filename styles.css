@@ -1,0 +1,33 @@
+body {
+    color: white;
+    background: rgb(27, 27, 27);
+    margin: 0px;
+    font-family: "Platypi", serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(148, 19, 173);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(148, 19, 173);
+}
+
+section {
+	background: rgb(184,156,213);
+	padding-bottom: 80px;
+	padding-top: 80px;
+	display: flex;
+	justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-family: 70px;
+}
+
+p {
+    font-family: 50px;
+}
